@@ -1,0 +1,19 @@
+{
+  "name": "Typescript-Design-Pattern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.11.30",
+    "typescript": "^5.4.3"
+  },
+  "dependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
